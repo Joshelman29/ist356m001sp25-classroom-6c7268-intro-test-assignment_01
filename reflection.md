@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  josh elman
+Sudent Email:  jdelman@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,5 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
+First task was easy to implement using if else conditions because logic was easy to understand based on testing method. The second task was quite difficult because we had to create a dictionary with two even and odd lists. Then we had to implement a while loop which was quite tricky. Overall, in this assignment, we learnt ifelse conditions, while loop, dictionary and list usability and importance of the tests to handle subtle bugs in our code.
 
